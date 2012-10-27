@@ -4,7 +4,7 @@
   <title><![CDATA[Light Lin]]></title>
   <link href="http://dejavux.github.com/atom.xml" rel="self"/>
   <link href="http://dejavux.github.com/"/>
-  <updated>2012-10-28T00:31:21+08:00</updated>
+  <updated>2012-10-28T04:35:28+08:00</updated>
   <id>http://dejavux.github.com/</id>
   <author>
     <name><![CDATA[Light Lin]]></name>
@@ -28,6 +28,26 @@
     <updated>2012-09-12T02:34:00+08:00</updated>
     <id>http://dejavux.github.com/blog/2012/09/12/hello-world</id>
     <content type="html"><![CDATA[<p>Hello World!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[why-flyingv]]></title>
+    <link href="http://dejavux.github.com/blog/2012/05/13/why-flyingv/"/>
+    <updated>2012-05-13T04:13:00+08:00</updated>
+    <id>http://dejavux.github.com/blog/2012/05/13/why-flyingv</id>
+    <content type="html"><![CDATA[<p><img src="http://d3eaxqwtlzapa7.cloudfront.net/wp-content/uploads/2012/05/463123_10150703628576127_687326126_9240207_1701833734_o.jpg" alt="團體合照 -- photo credit by Peter Chen" /></p>
+
+<p>前幾天 (4/27) <a href="https://flyingv.cc">FlyingV</a> 團隊辦了一場<a href="https://www.facebook.com/photo.php?fbid=439060616109933&amp;set=a.402777886404873.116026.274575209225142">小區聚會</a>，邀請了幾組目前的提案者以及一些好朋友們來<a href="https://www.facebook.com/Cavaralli">永康街卡瓦利</a>跟我們一起喝杯咖啡。我想會有人針對當天的花絮另外再介紹，所以就不特別贅述了，不過想趁著這次機會分享一下 &#8220;Why&#8221; 我想要做 FlyingV 這樣子的一個群資募資平台</p>
+
+<!-- more -->
+
+
+<p><span class='pullquote-right' data-pullquote='Don’t Tell Me What I Can’t do!!'>
+事實上，這個想法在我的心中大概醞釀了整整一年多，時間要回到 2010底~2011初 的時候，當時我一心一意非常熱血地想要幹些大事業，卻往往遇到許多挫折，很多想法都被認為是不可能的事，當時的我大概跟浩克一樣，隨時隨地都在發怒，心裡最多的 OS 就像 John Locke 常說的 Don’t Tell Me What I Can’t do!!&#8221;
+</span></p>
+
+<p><img src="http://d3eaxqwtlzapa7.cloudfront.net/wp-content/uploads/2012/05/tumblr_ljxrjuklNn1qai112.jpeg" alt="John Locke - don't tell me what I can't do!" /></p>
 ]]></content>
   </entry>
   
