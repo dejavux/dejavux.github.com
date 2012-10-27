@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://dejavux.github.com/atom.xml" rel="self"/>
   <link href="http://dejavux.github.com/"/>
-  <updated>2012-10-28T00:09:29+08:00</updated>
+  <updated>2012-10-28T00:11:20+08:00</updated>
   <id>http://dejavux.github.com/</id>
   <author>
     <name><![CDATA[dejavu]]></name>
@@ -18,7 +18,7 @@
     <link href="http://dejavux.github.com/blog/2012/10/27/test-1-2/"/>
     <updated>2012-10-27T22:14:00+08:00</updated>
     <id>http://dejavux.github.com/blog/2012/10/27/test-1-2</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h3>測試一下啦</h3>
 ]]></content>
   </entry>
   
