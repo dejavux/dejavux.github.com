@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Light Lin]]></title>
-  <link href="http://dejavux.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 群眾募資大小事 | Light Lin]]></title>
+  <link href="http://dejavux.github.com/blog/categories/群眾募資大小事/atom.xml" rel="self"/>
   <link href="http://dejavux.github.com/"/>
   <updated>2012-11-01T22:34:05+08:00</updated>
   <id>http://dejavux.github.com/</id>
@@ -14,20 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[test-1-2]]></title>
-    <link href="http://dejavux.github.com/blog/2012/10/27/test-1-2/"/>
-    <updated>2012-10-27T22:14:00+08:00</updated>
-    <id>http://dejavux.github.com/blog/2012/10/27/test-1-2</id>
-    <content type="html"><![CDATA[<h3>測試一下啦</h3>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[【群眾募資大小事】讓我們談談群眾外包(Crowdsourcing)]]></title>
     <link href="http://dejavux.github.com/blog/2012/10/25/lets-talk-about-crowdsourcing/"/>
     <updated>2012-10-25T20:27:00+08:00</updated>
     <id>http://dejavux.github.com/blog/2012/10/25/lets-talk-about-crowdsourcing</id>
-    <content type="html"><![CDATA[<p>&#8211; By FlyingV Team</p>
+    <content type="html"><![CDATA[<p>-- By FlyingV Team</p>
 
 <p><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-snc7/s720x720/395032_544471182235542_837120072_n.jpg" alt="讓我們談談群眾外包" /></p>
 
@@ -53,35 +44,6 @@
 <p>所以當你腦中有一個偉大的計畫，卻害怕資源不夠沒人幫忙，不知從哪開始著手時?或許可以考慮群眾募資，利用群眾的力量替你圓夢，當你的計劃成功後，也不忘回饋當初幫助你的人們。</p>
 
 <p>參考資料: <a href="http://mmdays.wordpress.com/2007/10/06/crowdsourcing_1/">1</a>, <a href="http://mmdays.wordpress.com/2007/10/06/crowdsourcing_2/">2</a>, <a href="http://mmdays.wordpress.com/2007/10/06/crowdsourcing_3/">3</a>, <a href="http://mmdays.wordpress.com/2007/10/06/crowdsourcing_4/">4</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://dejavux.github.com/blog/2012/09/12/hello-world/"/>
-    <updated>2012-09-12T02:34:00+08:00</updated>
-    <id>http://dejavux.github.com/blog/2012/09/12/hello-world</id>
-    <content type="html"><![CDATA[<p>Hello World!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[why-flyingv]]></title>
-    <link href="http://dejavux.github.com/blog/2012/05/13/why-flyingv/"/>
-    <updated>2012-05-13T04:13:00+08:00</updated>
-    <id>http://dejavux.github.com/blog/2012/05/13/why-flyingv</id>
-    <content type="html"><![CDATA[<p><img src="http://d3eaxqwtlzapa7.cloudfront.net/wp-content/uploads/2012/05/463123_10150703628576127_687326126_9240207_1701833734_o.jpg" alt="團體合照 -- photo credit by Peter Chen" /></p>
-
-<p>前幾天 (4/27) <a href="https://flyingv.cc">FlyingV</a> 團隊辦了一場<a href="https://www.facebook.com/photo.php?fbid=439060616109933&amp;set=a.402777886404873.116026.274575209225142">小區聚會</a>，邀請了幾組目前的提案者以及一些好朋友們來<a href="https://www.facebook.com/Cavaralli">永康街卡瓦利</a>跟我們一起喝杯咖啡。我想會有人針對當天的花絮另外再介紹，所以就不特別贅述了，不過想趁著這次機會分享一下 &#8220;Why&#8221; 我想要做 FlyingV 這樣子的一個群資募資平台</p>
-
-<!-- more -->
-
-
-<p><span class='pullquote-right' data-pullquote='Don’t Tell Me What I Can’t do!!'>
-事實上，這個想法在我的心中大概醞釀了整整一年多，時間要回到 2010底~2011初 的時候，當時我一心一意非常熱血地想要幹些大事業，卻往往遇到許多挫折，很多想法都被認為是不可能的事，當時的我大概跟浩克一樣，隨時隨地都在發怒，心裡最多的 OS 就像 John Locke 常說的 Don’t Tell Me What I Can’t do!!&#8221;
-</span></p>
-
-<p><img src="http://d3eaxqwtlzapa7.cloudfront.net/wp-content/uploads/2012/05/tumblr_ljxrjuklNn1qai112.jpeg" alt="John Locke - don't tell me what I can't do!" /></p>
 ]]></content>
   </entry>
   
